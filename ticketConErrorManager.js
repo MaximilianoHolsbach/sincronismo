@@ -142,7 +142,7 @@ pelicula.createEvent({
   place: "Paseo Libertad",
 });
 
-//console.log(pelicula.readEvents());
+console.log(pelicula.readEvents());
 
 //console.log(pelicula.readEventById(2));
 
